@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./SingInScreen\";","map":{"version":3,"names":["default"],"sources":["C:/Users/lenovo/Desktop/React-Native/learnReactNative/client/views/SignInScreen/index.js"],"sourcesContent":["export { default } from './SingInScreen'    "],"mappings":"AAAA,SAASA,OAAT"},"metadata":{},"sourceType":"module"}
